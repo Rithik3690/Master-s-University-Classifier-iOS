@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "4E5D78F0-C2BF-46C0-A469-814D6699A5B8": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "5CFB91E1-9C98-4830-85AF-9F62BE2F935A": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "C7A9FE2B-6556-4B7A-8063-CC6CDF7B9E62": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "GreIeltsClassifier.mlmodel",
+            "path": "com.apple.CoreML/GreIeltsClassifier.mlmodel"
+        }
+    },
+    "rootModelIdentifier": "C7A9FE2B-6556-4B7A-8063-CC6CDF7B9E62"
+}

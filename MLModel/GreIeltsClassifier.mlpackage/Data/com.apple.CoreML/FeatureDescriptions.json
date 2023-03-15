@@ -1,0 +1,33 @@
+{
+  "Outputs" : {
+    "UniversityProbability" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "University" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "Inputs" : {
+    "PERCENTAGE" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "GRE" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "LOR" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "WORK_EX" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "IELTS" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "SOP" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "TrainingInputs" : {
+
+  }
+}
